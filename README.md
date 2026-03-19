@@ -47,4 +47,16 @@ This project demonstrates how data analysis can move beyond reporting and direct
 ## Author
 Megha
 
+## Dashboard Preview
+
+### Top Overview
+![Top Overview](telecom_inventory_project/dashboard_top.png)
+
+### Charts
+![Charts](telecom_inventory_project/dashboard_charts1.png)
+![Charts](telecom_inventory_project/dashboard_charts2.png)
+
+![Recommendations](telecom_inventory_project/dashboard_recom.png)
+### Tables and Insights
+![Tables and Insights](telecom_inventory_project/dashboard_tables.png)
 
