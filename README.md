@@ -39,10 +39,12 @@ This project identifies both problems and converts them into actionable insights
 ```bash
 py -3.12 -m streamlit run app/dashboard.py
 
-Business Impact
+```
 
+## Business Impact
 This project demonstrates how data analysis can move beyond reporting and directly support decision-making in inventory planning, cost optimization, and operational risk reduction.
 
-Author
-
+## Author
 Megha
+
+
